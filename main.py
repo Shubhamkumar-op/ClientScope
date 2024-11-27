@@ -153,7 +153,7 @@ def age_distribution_by_gender(df):
 
 # Main dashboard
 if __name__ == "__main__":
-    st.title("📊 Customer Churn Dashboard")
+    st.title("📊 ClientScope")
     st.subheader("Data Analysis and Customer Insights")
     st.write("Unlock the power of data to analyze customer behavior and predict future trends.")
 
