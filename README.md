@@ -41,8 +41,8 @@ Ensure you have the following installed:
 
 ### 2️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/customer-churn-dashboard.git
-cd customer-churn-dashboard
+git clone https://github.com/Shubhamkumar-op/ClientScope.git
+cd main
 ```
 
 ### 3️⃣ **Install Dependencies**
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ### 4️⃣ **Run the Application**
 Start the Streamlit app by running:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ### 5️⃣ **Upload a Dataset**
@@ -80,16 +80,6 @@ _Add screenshots of your dashboard and insights here to visually showcase your a
 
 ---
 
-## 🤝 **Contributing**
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
-## 📜 **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🧑‍💻 **Author**
-- **Your Name**: Data Enthusiast and Software Developer
-- **Contact**: [your-email@example.com](mailto:your-email@example.com)
+- **Shubham Kumar Singh**: Data Enthusiast
