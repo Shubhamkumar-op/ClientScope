@@ -42,7 +42,7 @@ Ensure you have the following installed:
 ### 2️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/Shubhamkumar-op/ClientScope.git
-cd main
+cd ClientScope
 ```
 
 ### 3️⃣ **Install Dependencies**
