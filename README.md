@@ -1,5 +1,5 @@
 
-# Customer Churn Dashboard
+# ClientScope
 
 A **Streamlit-based interactive web application** for analyzing customer data, generating insights, and visualizing trends to understand customer behavior and churn rates. This application enables businesses to make data-driven decisions based on customer statistics, future projections, and visual dashboards.
 
@@ -7,7 +7,7 @@ A **Streamlit-based interactive web application** for analyzing customer data, g
 
 ## 📜 **Project Description**
 
-The **Customer Churn Dashboard** is designed to analyze customer data in real-time. Users can upload CSV files containing customer information and perform the following tasks:
+The **ClientScope** is designed to analyze customer data in real-time. Users can upload CSV files containing customer information and perform the following tasks:
 
 - **Explore Dataset:** View samples, size, column info, missing values, and statistics of the dataset.
 - **Customer Statistics:** Get insights such as average age, tenure, total spend, churn rate, and more.
