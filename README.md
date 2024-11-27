@@ -66,12 +66,6 @@ streamlit run main.py
 - Generate insights.
 - Visualize trends and projections.
 
----
-
-## 📊 **Screenshots**
-_Add screenshots of your dashboard and insights here to visually showcase your app._
-
----
 
 ## 💡 **Future Enhancements**
 - Support for more file types (e.g., Excel).
