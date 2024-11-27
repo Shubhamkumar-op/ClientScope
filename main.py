@@ -5,7 +5,7 @@ import io
 
 # Set page configuration
 st.set_page_config(
-    page_title="Customer Churn Dashboard",
+    page_title="ClientScope",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
